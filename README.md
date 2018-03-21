@@ -1,7 +1,9 @@
 
 resultados de la opcion 1 en x64 y x86
 
+
 Valores de size of en x86
+
 
 El tama±o de un 'short int' es: 2
 El tama±o de un 'int' es: 4
@@ -11,7 +13,9 @@ El tama±o de un 'long' es: 4
 El tama±o de un 'long long' es: 8
 El tama±o de un 'size_t' es: 4
 
+
 Valores de size of en x64
+
 
 El tama±o de un 'short int' es: 2
 El tama±o de un 'int' es: 4
